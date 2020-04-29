@@ -1,0 +1,16 @@
+#d-navigation .nav-link {
+    border-radius: 4px;
+    padding: .3rem 1rem;
+    transition: all 0.2s;
+}
+
+#d-navigation .nav-link.active {
+    background: #dc3545;
+    border-radius: 4px;
+    color: #f7f7f7 !important;
+}
+
+#d-navigation .nav-link:hover {
+    background: #dc3545;
+    color: #f7f7f7 !important;
+}
